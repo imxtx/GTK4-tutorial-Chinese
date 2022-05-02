@@ -22,7 +22,7 @@
 
 ## 许可
 
-Copyright (C) 2022  T.X. Xie (Tianxin Xie，谢添鑫)
+Copyright (C) 2022  T.X. Xie (Tianxin Xie)
 
 本仓库的所有文件构成 “GTK4新手教程”。“GTK4新手教程” 是免费的。你可以在 [GNU GPL v3.0](https://www.gnu.org/licenses/gpl-3.0.html) 许可下再发布或者修改所有文件。
 
