@@ -312,9 +312,7 @@ Gtk-doc 的安装会将 `gtk-doc.pc` 放在 `$HOME/local/share/pkgconfig` 下。
 
 8. 执行
 
-~~~
-$ tfe
-~~~
+        $ tfe
 
 之后 `tfe` 文本编辑器会显示出来。说明编译和执行已经成功了。
 
