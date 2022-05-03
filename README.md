@@ -35,8 +35,8 @@
 没有链接说明还未翻译。
 
 1. [要求和许可](src/sec01.md)
-2. 在 Linux 发行版上安装 Gtk4【翻译中】
-3. GtkApplication 和 GtkApplicationWindow
+2. [在Linux上安装Gtk4](src/sec02.md)
+3. GtkApplication 和 GtkApplicationWindow【翻译中】
 4. 控件介绍 (1)
 5. 控件介绍 (2)
 6. 字符串和内存管理
