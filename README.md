@@ -37,7 +37,7 @@
 1. [要求和许可](src/sec01.md)
 2. [在Linux上安装Gtk4](src/sec02.md)
 3. [GtkApplication 和 GtkApplicationWindow](src/sec03.md)
-4. 控件介绍 (1)【翻译中】
+4. [控件介绍 (1)](src/sec04.md)
 5. 控件介绍 (2)
 6. 字符串和内存管理
 7. 控件介绍 (3)
