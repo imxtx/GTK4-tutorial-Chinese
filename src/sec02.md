@@ -1,6 +1,6 @@
 主页：[教程介绍](../README.md)，上一节：[第01节](sec01.md)，下一节：[第03节](sec03.md)
 
-# 在 Linux 上安装 Gtk4
+# 2 在 Linux 上安装 Gtk4
 
 本节教程描述如何在 Linux 发行版上安装 Gtk4。
 

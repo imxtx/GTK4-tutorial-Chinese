@@ -1,6 +1,6 @@
 主页：[教程介绍](../README.md)，上一节：[第04节](sec04.md)，下一节：[第06节](sec06.md)
 
-# 控件介绍 (2)
+# 5 控件介绍 (2)
 
 ## GtkTextView, GtkTextBuffer 和 GtkScrolledWindow
 

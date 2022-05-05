@@ -1,6 +1,6 @@
 主页：[教程介绍](../README.md)，上一节：[第02节](sec02.md)，下一节：[第04节](sec04.md)
 
-# GtkApplication 和 GtkApplicationWindow
+# 3 GtkApplication 和 GtkApplicationWindow
 
 ## GtkApplication
 

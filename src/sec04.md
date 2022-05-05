@@ -1,6 +1,6 @@
 主页：[教程介绍](../README.md)，上一节：[第03节](sec03.md)，下一节：[第05节](sec05.md)
 
-# 控件介绍 (1)
+# 4 控件介绍 (1)
 
 ## GtkLabel, GtkButton 和 GtkBox
 
