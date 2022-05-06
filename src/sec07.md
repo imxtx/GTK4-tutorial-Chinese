@@ -1,8 +1,6 @@
 主页：[教程介绍](../README.md)，上一节：[第06节](sec06.md)，下一节：[第08节](sec08.md)
 
 
-Up: [Readme.md](../Readme.md),  Prev: [Section 6](sec6.md), Next: [Section 8](sec8.md)
-
 # 控件介绍 (3)
 
 ## Open 信号
