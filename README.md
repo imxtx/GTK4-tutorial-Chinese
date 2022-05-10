@@ -42,7 +42,7 @@
 6. [字符串和内存管理](src/sec06.md)
 7. [控件介绍 (3)](src/sec07.md)
 8. [定义子对象](src/sec08.md)
-9. UI 文件和 GtkBuilder
+9. [UI 文件和 GtkBuilder](src/sec09.md)
 10. 构建系统
 11. 初始化和销毁实例
 12. 信号
