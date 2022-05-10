@@ -331,7 +331,7 @@ $ cd tfe; diff tfe2.c tfe3.c
 48 }
 ~~~
 
-你可以在 [src/tfe](.tfe/) 查看完整的 `tfe3.c`。
+你可以在 [src/tfe](tfe) 查看完整的 `tfe3.c`。
 
 ### 使用 ui 字符创
 
